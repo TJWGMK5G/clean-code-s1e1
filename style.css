@@ -12,7 +12,7 @@ ul {
 
 li, 
 h3 {
-    list-style:none;
+    list-style: none;
 }
 
 li {
@@ -30,7 +30,7 @@ li > * {
 
 input,
 button  {
-    outline:none;
+    outline: none;
 }
 
 button {
@@ -53,9 +53,9 @@ button:hover {
     display: block;
     text-align: right;
 
-    @media (max-width:768px) {
+      @media (max-width: 768px) {
          text-align: center;
-    }
+      }
 }
 
 .main-more img {
